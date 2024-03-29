@@ -1,0 +1,16 @@
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading_Form_App.GradeForm.resources
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.vbproj.GenerateResource.cache
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.AssemblyInfoInputs.cache
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.AssemblyInfo.vb
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.vbproj.CoreCompileInputs.cache
+C:\Users\flore\source\repos\Grading Form App\bin\Debug\net8.0-windows\Grading Form App.exe
+C:\Users\flore\source\repos\Grading Form App\bin\Debug\net8.0-windows\Grading Form App.deps.json
+C:\Users\flore\source\repos\Grading Form App\bin\Debug\net8.0-windows\Grading Form App.runtimeconfig.json
+C:\Users\flore\source\repos\Grading Form App\bin\Debug\net8.0-windows\Grading Form App.dll
+C:\Users\flore\source\repos\Grading Form App\bin\Debug\net8.0-windows\Grading Form App.pdb
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.dll
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\refint\Grading Form App.dll
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.pdb
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\Grading Form App.genruntimeconfig.cache
+C:\Users\flore\source\repos\Grading Form App\obj\Debug\net8.0-windows\ref\Grading Form App.dll
